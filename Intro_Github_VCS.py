@@ -139,7 +139,8 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Rachel Linthicum------------------
-RLL - line 141 (says student 14) to line 150 (says student 15) ; this is the master branch
+this is the master branch
+Favorite Color: yellow
 10/06/06
 
 
