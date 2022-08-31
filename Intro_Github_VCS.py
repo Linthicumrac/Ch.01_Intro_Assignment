@@ -139,16 +139,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Rachel Linthicum------------------
-this is the master branch
+This is the master branch
 Favorite Color: yellow
-10/06/06
+Date of Birth: 10/06/06
+Favorite Movie Franchise: MCU
 
 
 
 
-
-
-------------------Student 15------------------
+----150-----------Student 15------------------
 
 
 
