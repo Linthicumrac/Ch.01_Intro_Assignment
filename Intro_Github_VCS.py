@@ -137,7 +137,6 @@ Tell me some interesting facts about yourself.
 
 
 
-
 ------------------Rachel Linthicum------------------
 This is the master branch
 Date of Birth: 10/06/06
@@ -147,6 +146,7 @@ Favorite Animal: Monkey
 Favorite Book Author: Rick Riordan
 Favorite Season: Fall/Autumn
 Favorite Sports: Volleyball & Basketball
+Favorite Day of the Week: Saturday
 ----150-----------Student 15------------------
 
 
