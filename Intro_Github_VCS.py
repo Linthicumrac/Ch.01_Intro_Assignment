@@ -146,6 +146,7 @@ Favorite Animal: Monkey
 Favorite Book Author: Rick Riordan
 Favorite Season: Fall/Autumn
 Favorite Sports: Volleyball & Basketball
+Favorite Month: October
 ------------------Student 15------------------
 
 
