@@ -146,8 +146,7 @@ Favorite Animal: Monkey
 Favorite Book Author: Rick Riordan
 Favorite Season: Fall/Autumn
 Favorite Sports: Volleyball & Basketball
-Favorite Day of the Week: Saturday
-----150-----------Student 15------------------
+------------------Student 15------------------
 
 
 
