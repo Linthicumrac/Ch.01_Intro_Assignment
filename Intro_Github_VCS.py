@@ -137,16 +137,16 @@ Tell me some interesting facts about yourself.
 
 
 
-
 ------------------Rachel Linthicum------------------
 This is the master branch
-Favorite Color: yellow
 Date of Birth: 10/06/06
+Favorite Color: yellow
 Favorite Movie Franchise: MCU
-
-
-
-
+Favorite Animal: Monkey
+Favorite Book Author: Rick Riordan
+Favorite School Class: H. Algebra II & Trig
+Favorite Season: Fall/Autumn
+Favorite Sports: Volleyball & Basketball
 ----150-----------Student 15------------------
 
 
